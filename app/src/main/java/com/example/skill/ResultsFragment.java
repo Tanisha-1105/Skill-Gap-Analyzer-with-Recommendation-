@@ -44,7 +44,7 @@ public class ResultsFragment extends Fragment {
 
     private ProgressBar progressBar;
     private SharedViewModel viewModel;
-    private static final String API_KEY = "AIzaSyD0Sx4BLuhAXrl4Thlpacua-hcLdmwig6o"; // Google API key
+    private static final String API_KEY = ""; // Google API key
     private static final String API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent";
     @Nullable
     @Override

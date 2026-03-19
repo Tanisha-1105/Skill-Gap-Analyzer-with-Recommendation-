@@ -40,7 +40,7 @@ public class TestFragment extends Fragment {
     private int selectedOption = -1;
 
     // Google Generative AI API Key
-    private static final String API_KEY = "AIzaSyD0Sx4BLuhAXrl4Thlpacua-hcLdmwig6o"; // IMPORTANT: Put your active API key here!
+    private static final String API_KEY = ""; // IMPORTANT: Put your active API key here!
     private static final String API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent";
 
     @Nullable
